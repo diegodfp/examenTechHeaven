@@ -1,4 +1,4 @@
--- Active: 1717105247149@@127.0.0.1@3306@campus
+
 
 DROP DATABASE IF EXISTS tiendaonline;
 create database tiendaonline;

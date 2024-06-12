@@ -1,4 +1,4 @@
--- Active: 1717105247149@@127.0.0.1@3306@tiendaonline
+
 
 -- 1. Obtener la lista de todos los productos con sus precio 
 
